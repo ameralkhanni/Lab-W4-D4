@@ -1,0 +1,31 @@
+.edd{
+
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 50px;
+}
+ul{
+  list-style-type: none;
+}
+input{
+  padding: 20px;
+}
+.edd2{
+
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 50px;
+  border: 2px solid;
+}
+.b1{
+  background-color: rgb(255, 177, 177);
+}
+.b2{
+  background-color: rgb(181, 221, 255);
+
+
+}
